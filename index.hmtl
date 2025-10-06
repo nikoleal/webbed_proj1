@@ -28,8 +28,8 @@
     </ul>
     <p>These future employers interest me because they specialize in technology and are in constant need of better technology to beat out their competators. I want to be a person who halps make a new and better processer.</p>
     <h2>Microchip Example:</h2>
-    <img src="microchip_example.jpeg" alt="Microchip Example">
+    <img src="images/microchip_example.jpeg" alt="Microchip Example">
     <h2>Apple Chip Diagram:</h2>
-    <img src="apple_chip.jpeg" alt="Flight Controls Diagram">
+    <img src="images/apple_chip.jpeg" alt="Flight Controls Diagram">
   </body>
 </html>
